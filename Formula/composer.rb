@@ -1,9 +1,9 @@
 class Composer < Formula
   desc "Composer package and dependency manager"
   homepage "https://getcomposer.org/"
-  url "https://getcomposer.org/download/1.4.1/composer.phar"
-  version "1.4.1"
-  sha256 "abd277cc3453be980bb48cbffe9d1f7422ca1ef4bc0b7d035fda87cea4d55cbc"
+  url "https://getcomposer.org/download/1.5.1/composer.phar"
+  version "1.5.1"
+  sha256 "2745e7b8cced2e97f84b9e9cb0f9c401702f47cecea5a67f095ac4fa1a44fb80"
 
   devel do
     url "https://getcomposer.org/composer.phar"
