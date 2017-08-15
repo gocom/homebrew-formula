@@ -22,3 +22,4 @@ This tap includes:
 | [Dircolors Solarized](https://github.com/seebi/dircolors-solarized) | `dircolors-solarized` |
 | [kcov](https://github.com/SimonKagstrom/kcov) | `kcov` |
 | [LS_COLORS](https://github.com/trapd00r/LS_COLORS) | `ls-colors` |
+| [SetLEDs](https://github.com/damieng/setledsmac) | `setleds` |
