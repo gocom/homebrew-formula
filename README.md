@@ -17,6 +17,7 @@ This tap includes:
 
 | Package | Formula name |
 | ------- | ------------ |
+| [AppleIntelInfo](https://github.com/Piker-Alpha/AppleIntelInfo) | `appleintelinfo` |
 | [Composer](https://github.com/composer/composer) | `composer` |
 | [Composer Bash Completion](https://github.com/iArren/composer-bash-completion) | `composer-completion` |
 | [Dircolors Solarized](https://github.com/seebi/dircolors-solarized) | `dircolors-solarized` |
