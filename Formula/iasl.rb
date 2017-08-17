@@ -1,5 +1,5 @@
 class Iasl < Formula
-  desc "Intel ACPI	compiler and decompiler"
+  desc "Intel ACPI compiler and decompiler"
   homepage "https://github.com/RehabMan/Intel-iasl"
   head "https://github.com/RehabMan/Intel-iasl.git"
 
