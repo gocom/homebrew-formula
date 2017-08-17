@@ -22,6 +22,7 @@ This tap includes:
 | [Composer Bash Completion](https://github.com/iArren/composer-bash-completion) | `composer-completion` |
 | [Dircolors Solarized](https://github.com/seebi/dircolors-solarized) | `dircolors-solarized` |
 | [kcov](https://github.com/SimonKagstrom/kcov) | `kcov` |
+| [iASL](https://github.com/RehabMan/Intel-iasl) | `iasl` |
 | [LS_COLORS](https://github.com/trapd00r/LS_COLORS) | `ls-colors` |
 | [SetLEDs](https://github.com/damieng/setledsmac) | `setleds` |
 | [ssdtPRGen](https://github.com/Piker-Alpha/ssdtPRGen.sh) | `ssdtprgen` |
