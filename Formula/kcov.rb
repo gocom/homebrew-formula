@@ -6,13 +6,13 @@ class Kcov < Formula
   head "https://github.com/SimonKagstrom/kcov.git"
 
   depends_on :macos => :mountain_lion
-  depends_on "python@2" => :run
-  depends_on "bash" => :run
+  depends_on "python@2"
+  depends_on "bash"
   depends_on "cmake" => :build
-  depends_on "curl" => :run
-  depends_on "llvm" => [:run, "with-lldb", "with-python", "with-toolchain"]
-  depends_on "pkgconfig" => :run
-  depends_on "zlib" => :run
+  depends_on "curl"
+  depends_on "llvm" => ["with-lldb", "with-python", "with-toolchain"]
+  depends_on "pkgconfig"
+  depends_on "zlib"
 
   # Does not compile with clang >= 4 due to 'char < int'.
   patch :DATA
