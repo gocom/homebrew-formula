@@ -6,7 +6,7 @@ class Kcov < Formula
   head "https://github.com/SimonKagstrom/kcov.git"
 
   depends_on :macos => :mountain_lion
-  depends_on :python => :run
+  depends_on "python@2" => :run
   depends_on "bash" => :run
   depends_on "cmake" => :build
   depends_on "curl" => :run
