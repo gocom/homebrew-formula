@@ -18,7 +18,7 @@ class Appleintelinfo < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<~EOS
       Load the kernel extension with:
         sudo kextload "#{prefix}/AppleIntelInfo.kext"
 

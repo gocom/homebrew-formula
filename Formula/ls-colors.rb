@@ -17,7 +17,7 @@ class LsColors < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<~EOS
       Add the following lines to your bash or zsh config (e.g. ~/.bash_profile):
         if [ -f "#{HOMEBREW_PREFIX}/share/dircolors" ] && [ "$(command -v dircolors)" ]; then
           eval "$(dircolors -b "#{HOMEBREW_PREFIX}/share/dircolors")"

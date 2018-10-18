@@ -34,7 +34,7 @@ class Kcov < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<~EOS
       Due to lack of headers, and to get it to consistently compile on different
       host systems, we use the full LLVM stack instead of LLDB that is bundled
       with Xcode.

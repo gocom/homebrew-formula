@@ -18,7 +18,7 @@ class ComposerCompletion < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<~EOS
       Requires bash-completion >= 2.0.0 and Bash >= 4.1, and that 'composer'
       is in path. Legacy system bash and bash-completion can not be used.
     EOS
