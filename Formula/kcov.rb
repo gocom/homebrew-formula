@@ -5,7 +5,6 @@ class Kcov < Formula
   sha256 "23e20157c8fb933b76d5733ca5700c9eb2399851febf0d4144d7b2dc940f4464"
   head "https://github.com/SimonKagstrom/kcov.git"
 
-  depends_on :macos => :mountain_lion
   depends_on "python@2"
   depends_on "bash"
   depends_on "cmake" => :build
